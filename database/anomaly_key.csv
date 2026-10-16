@@ -1,0 +1,227 @@
+scope,tender_id,anomaly_type,expected_flag,involved_entities,is_true_anomaly,explanation
+tender,T00581,repeat_winner,repeat_winner,C091,True,Karst Ridge wins ~55% of Stonebridge PWD contracts; owner chain leads to PEP via BVI entity
+tender,T00608,repeat_winner,repeat_winner,C091,True,Karst Ridge wins ~55% of Stonebridge PWD contracts; owner chain leads to PEP via BVI entity
+tender,T00510,repeat_winner,repeat_winner,C091,True,Karst Ridge wins ~55% of Stonebridge PWD contracts; owner chain leads to PEP via BVI entity
+tender,T00605,repeat_winner,repeat_winner,C091,True,Karst Ridge wins ~55% of Stonebridge PWD contracts; owner chain leads to PEP via BVI entity
+tender,T00518,repeat_winner,repeat_winner,C091,True,Karst Ridge wins ~55% of Stonebridge PWD contracts; owner chain leads to PEP via BVI entity
+tender,T00539,repeat_winner,repeat_winner,C091,True,Karst Ridge wins ~55% of Stonebridge PWD contracts; owner chain leads to PEP via BVI entity
+tender,T00568,repeat_winner,repeat_winner,C091,True,Karst Ridge wins ~55% of Stonebridge PWD contracts; owner chain leads to PEP via BVI entity
+tender,T00570,repeat_winner,repeat_winner,C091,True,Karst Ridge wins ~55% of Stonebridge PWD contracts; owner chain leads to PEP via BVI entity
+tender,T00525,repeat_winner,repeat_winner,C091,True,Karst Ridge wins ~55% of Stonebridge PWD contracts; owner chain leads to PEP via BVI entity
+tender,T00582,repeat_winner,repeat_winner,C091,True,Karst Ridge wins ~55% of Stonebridge PWD contracts; owner chain leads to PEP via BVI entity
+tender,T00578,repeat_winner,repeat_winner,C091,True,Karst Ridge wins ~55% of Stonebridge PWD contracts; owner chain leads to PEP via BVI entity
+tender,T00611,repeat_winner,repeat_winner,C091,True,Karst Ridge wins ~55% of Stonebridge PWD contracts; owner chain leads to PEP via BVI entity
+tender,T00558,repeat_winner,repeat_winner,C091,True,Karst Ridge wins ~55% of Stonebridge PWD contracts; owner chain leads to PEP via BVI entity
+tender,T00511,repeat_winner,repeat_winner,C091,True,Karst Ridge wins ~55% of Stonebridge PWD contracts; owner chain leads to PEP via BVI entity
+tender,T00560,repeat_winner,repeat_winner,C091,True,Karst Ridge wins ~55% of Stonebridge PWD contracts; owner chain leads to PEP via BVI entity
+tender,T00502,repeat_winner,repeat_winner,C091,True,Karst Ridge wins ~55% of Stonebridge PWD contracts; owner chain leads to PEP via BVI entity
+tender,T00543,repeat_winner,repeat_winner,C091,True,Karst Ridge wins ~55% of Stonebridge PWD contracts; owner chain leads to PEP via BVI entity
+tender,T00597,repeat_winner,repeat_winner,C091,True,Karst Ridge wins ~55% of Stonebridge PWD contracts; owner chain leads to PEP via BVI entity
+tender,T00575,repeat_winner,repeat_winner,C091,True,Karst Ridge wins ~55% of Stonebridge PWD contracts; owner chain leads to PEP via BVI entity
+tender,T00619,repeat_winner,repeat_winner,C091,True,Karst Ridge wins ~55% of Stonebridge PWD contracts; owner chain leads to PEP via BVI entity
+tender,T00620,repeat_winner,repeat_winner,C091,True,Karst Ridge wins ~55% of Stonebridge PWD contracts; owner chain leads to PEP via BVI entity
+tender,T00534,repeat_winner,repeat_winner,C091,True,Karst Ridge wins ~55% of Stonebridge PWD contracts; owner chain leads to PEP via BVI entity
+tender,T00609,repeat_winner,repeat_winner,C091,True,Karst Ridge wins ~55% of Stonebridge PWD contracts; owner chain leads to PEP via BVI entity
+tender,T00513,repeat_winner,repeat_winner,C091,True,Karst Ridge wins ~55% of Stonebridge PWD contracts; owner chain leads to PEP via BVI entity
+tender,T00535,repeat_winner,repeat_winner,C091,True,Karst Ridge wins ~55% of Stonebridge PWD contracts; owner chain leads to PEP via BVI entity
+tender,T00527,repeat_winner,repeat_winner,C091,True,Karst Ridge wins ~55% of Stonebridge PWD contracts; owner chain leads to PEP via BVI entity
+tender,T00555,repeat_winner,repeat_winner,C091,True,Karst Ridge wins ~55% of Stonebridge PWD contracts; owner chain leads to PEP via BVI entity
+tender,T00564,repeat_winner,repeat_winner,C091,True,Karst Ridge wins ~55% of Stonebridge PWD contracts; owner chain leads to PEP via BVI entity
+tender,T00521,repeat_winner,repeat_winner,C091,True,Karst Ridge wins ~55% of Stonebridge PWD contracts; owner chain leads to PEP via BVI entity
+tender,T00567,repeat_winner,repeat_winner,C091,True,Karst Ridge wins ~55% of Stonebridge PWD contracts; owner chain leads to PEP via BVI entity
+tender,T00551,repeat_winner,repeat_winner,C091,True,Karst Ridge wins ~55% of Stonebridge PWD contracts; owner chain leads to PEP via BVI entity
+tender,T00596,repeat_winner,repeat_winner,C091,True,Karst Ridge wins ~55% of Stonebridge PWD contracts; owner chain leads to PEP via BVI entity
+tender,T00514,repeat_winner,repeat_winner,C091,True,Karst Ridge wins ~55% of Stonebridge PWD contracts; owner chain leads to PEP via BVI entity
+tender,T00612,repeat_winner,repeat_winner,C091,True,Karst Ridge wins ~55% of Stonebridge PWD contracts; owner chain leads to PEP via BVI entity
+tender,T00524,repeat_winner,repeat_winner,C091,True,Karst Ridge wins ~55% of Stonebridge PWD contracts; owner chain leads to PEP via BVI entity
+tender,T00528,repeat_winner,repeat_winner,C091,True,Karst Ridge wins ~55% of Stonebridge PWD contracts; owner chain leads to PEP via BVI entity
+tender,T00616,repeat_winner,repeat_winner,C091,True,Karst Ridge wins ~55% of Stonebridge PWD contracts; owner chain leads to PEP via BVI entity
+tender,T00504,repeat_winner,repeat_winner,C091,True,Karst Ridge wins ~55% of Stonebridge PWD contracts; owner chain leads to PEP via BVI entity
+tender,T00600,repeat_winner,repeat_winner,C091,True,Karst Ridge wins ~55% of Stonebridge PWD contracts; owner chain leads to PEP via BVI entity
+tender,T00606,repeat_winner,repeat_winner,C091,True,Karst Ridge wins ~55% of Stonebridge PWD contracts; owner chain leads to PEP via BVI entity
+tender,T00565,repeat_winner,repeat_winner,C091,True,Karst Ridge wins ~55% of Stonebridge PWD contracts; owner chain leads to PEP via BVI entity
+tender,T00544,repeat_winner,repeat_winner,C091,True,Karst Ridge wins ~55% of Stonebridge PWD contracts; owner chain leads to PEP via BVI entity
+tender,T00556,repeat_winner,repeat_winner,C091,True,Karst Ridge wins ~55% of Stonebridge PWD contracts; owner chain leads to PEP via BVI entity
+tender,T00569,repeat_winner,repeat_winner,C091,True,Karst Ridge wins ~55% of Stonebridge PWD contracts; owner chain leads to PEP via BVI entity
+tender,T00515,repeat_winner,repeat_winner,C091,True,Karst Ridge wins ~55% of Stonebridge PWD contracts; owner chain leads to PEP via BVI entity
+tender,T00592,repeat_winner,repeat_winner,C091,True,Karst Ridge wins ~55% of Stonebridge PWD contracts; owner chain leads to PEP via BVI entity
+tender,T00574,repeat_winner,repeat_winner,C091,True,Karst Ridge wins ~55% of Stonebridge PWD contracts; owner chain leads to PEP via BVI entity
+tender,T00532,repeat_winner,repeat_winner,C091,True,Karst Ridge wins ~55% of Stonebridge PWD contracts; owner chain leads to PEP via BVI entity
+tender,T00563,repeat_winner,repeat_winner,C091,True,Karst Ridge wins ~55% of Stonebridge PWD contracts; owner chain leads to PEP via BVI entity
+tender,T00589,repeat_winner,repeat_winner,C091,True,Karst Ridge wins ~55% of Stonebridge PWD contracts; owner chain leads to PEP via BVI entity
+tender,T00580,repeat_winner,repeat_winner,C091,True,Karst Ridge wins ~55% of Stonebridge PWD contracts; owner chain leads to PEP via BVI entity
+tender,T00536,repeat_winner,repeat_winner,C091,True,Karst Ridge wins ~55% of Stonebridge PWD contracts; owner chain leads to PEP via BVI entity
+tender,T00584,repeat_winner,repeat_winner,C091,True,Karst Ridge wins ~55% of Stonebridge PWD contracts; owner chain leads to PEP via BVI entity
+tender,T00610,repeat_winner,repeat_winner,C091,True,Karst Ridge wins ~55% of Stonebridge PWD contracts; owner chain leads to PEP via BVI entity
+tender,T00503,repeat_winner,repeat_winner,C091,True,Karst Ridge wins ~55% of Stonebridge PWD contracts; owner chain leads to PEP via BVI entity
+tender,T00522,repeat_winner,repeat_winner,C091,True,Karst Ridge wins ~55% of Stonebridge PWD contracts; owner chain leads to PEP via BVI entity
+tender,T00593,repeat_winner,repeat_winner,C091,True,Karst Ridge wins ~55% of Stonebridge PWD contracts; owner chain leads to PEP via BVI entity
+tender,T00557,repeat_winner,repeat_winner,C091,True,Karst Ridge wins ~55% of Stonebridge PWD contracts; owner chain leads to PEP via BVI entity
+tender,T00614,repeat_winner,repeat_winner,C091,True,Karst Ridge wins ~55% of Stonebridge PWD contracts; owner chain leads to PEP via BVI entity
+tender,T00507,repeat_winner,repeat_winner,C091,True,Karst Ridge wins ~55% of Stonebridge PWD contracts; owner chain leads to PEP via BVI entity
+tender,T00548,repeat_winner,repeat_winner,C091,True,Karst Ridge wins ~55% of Stonebridge PWD contracts; owner chain leads to PEP via BVI entity
+tender,T00541,repeat_winner,repeat_winner,C091,True,Karst Ridge wins ~55% of Stonebridge PWD contracts; owner chain leads to PEP via BVI entity
+tender,T00623,repeat_winner,repeat_winner,C091,True,Karst Ridge wins ~55% of Stonebridge PWD contracts; owner chain leads to PEP via BVI entity
+tender,T00579,repeat_winner,repeat_winner,C091,True,Karst Ridge wins ~55% of Stonebridge PWD contracts; owner chain leads to PEP via BVI entity
+tender,T00583,repeat_winner,repeat_winner,C091,True,Karst Ridge wins ~55% of Stonebridge PWD contracts; owner chain leads to PEP via BVI entity
+tender,T00590,repeat_winner,repeat_winner,C091,True,Karst Ridge wins ~55% of Stonebridge PWD contracts; owner chain leads to PEP via BVI entity
+tender,T00594,repeat_winner,repeat_winner,C091,True,Karst Ridge wins ~55% of Stonebridge PWD contracts; owner chain leads to PEP via BVI entity
+tender,T00538,repeat_winner,repeat_winner,C091,True,Karst Ridge wins ~55% of Stonebridge PWD contracts; owner chain leads to PEP via BVI entity
+tender,T00287,threshold_hugging,threshold_hugging,C092,True,"Value is 97.2% of approval limit 500,000; same winner each time; Brightwell owner shares PEP with Karst Ridge"
+tender,T00348,threshold_hugging,threshold_hugging,C092,True,"Value is 95.7% of approval limit 500,000; same winner each time; Brightwell owner shares PEP with Karst Ridge"
+tender,T00311,threshold_hugging,threshold_hugging,C092,True,"Value is 99.2% of approval limit 500,000; same winner each time; Brightwell owner shares PEP with Karst Ridge"
+tender,T00308,threshold_hugging,threshold_hugging,C092,True,"Value is 95.7% of approval limit 500,000; same winner each time; Brightwell owner shares PEP with Karst Ridge"
+tender,T00252,threshold_hugging,threshold_hugging,C092,True,"Value is 96.7% of approval limit 500,000; same winner each time; Brightwell owner shares PEP with Karst Ridge"
+tender,T00357,threshold_hugging,threshold_hugging,C092,True,"Value is 98.5% of approval limit 500,000; same winner each time; Brightwell owner shares PEP with Karst Ridge"
+tender,T00283,threshold_hugging,threshold_hugging,C092,True,"Value is 97.9% of approval limit 500,000; same winner each time; Brightwell owner shares PEP with Karst Ridge"
+tender,T00263,threshold_hugging,threshold_hugging,C092,True,"Value is 98.9% of approval limit 500,000; same winner each time; Brightwell owner shares PEP with Karst Ridge"
+tender,T00280,threshold_hugging,threshold_hugging,C092,True,"Value is 98.6% of approval limit 500,000; same winner each time; Brightwell owner shares PEP with Karst Ridge"
+tender,T00342,threshold_hugging,threshold_hugging,C092,True,"Value is 96.1% of approval limit 500,000; same winner each time; Brightwell owner shares PEP with Karst Ridge"
+tender,T00371,threshold_hugging,threshold_hugging,C092,True,"Value is 98.6% of approval limit 500,000; same winner each time; Brightwell owner shares PEP with Karst Ridge"
+tender,T00328,threshold_hugging,threshold_hugging,C092,True,"Value is 96.6% of approval limit 500,000; same winner each time; Brightwell owner shares PEP with Karst Ridge"
+tender,T00365,threshold_hugging,threshold_hugging,C092,True,"Value is 95.8% of approval limit 500,000; same winner each time; Brightwell owner shares PEP with Karst Ridge"
+tender,T00330,threshold_hugging,threshold_hugging,C092,True,"Value is 96.3% of approval limit 500,000; same winner each time; Brightwell owner shares PEP with Karst Ridge"
+tender,T00265,threshold_hugging,threshold_hugging,C092,True,"Value is 98.5% of approval limit 500,000; same winner each time; Brightwell owner shares PEP with Karst Ridge"
+tender,T00295,threshold_hugging,threshold_hugging,C092,True,"Value is 97.8% of approval limit 500,000; same winner each time; Brightwell owner shares PEP with Karst Ridge"
+tender,T00275,threshold_hugging,threshold_hugging,C092,True,"Value is 97.8% of approval limit 500,000; same winner each time; Brightwell owner shares PEP with Karst Ridge"
+tender,T00316,threshold_hugging,threshold_hugging,C092,True,"Value is 95.7% of approval limit 500,000; same winner each time; Brightwell owner shares PEP with Karst Ridge"
+tender,T00356,threshold_hugging,threshold_hugging,C092,True,"Value is 97.4% of approval limit 500,000; same winner each time; Brightwell owner shares PEP with Karst Ridge"
+tender,T00332,threshold_hugging,threshold_hugging,C092,True,"Value is 95.6% of approval limit 500,000; same winner each time; Brightwell owner shares PEP with Karst Ridge"
+tender,T00304,threshold_hugging,threshold_hugging,C092,True,"Value is 99.3% of approval limit 2,000,000; same winner each time; Brightwell owner shares PEP with Karst Ridge"
+tender,T00253,threshold_hugging,threshold_hugging,C092,True,"Value is 97.0% of approval limit 2,000,000; same winner each time; Brightwell owner shares PEP with Karst Ridge"
+tender,T00274,threshold_hugging,threshold_hugging,C092,True,"Value is 97.0% of approval limit 2,000,000; same winner each time; Brightwell owner shares PEP with Karst Ridge"
+tender,T00320,threshold_hugging,threshold_hugging,C092,True,"Value is 95.9% of approval limit 2,000,000; same winner each time; Brightwell owner shares PEP with Karst Ridge"
+tender,T00267,threshold_hugging,threshold_hugging,C092,True,"Value is 98.9% of approval limit 2,000,000; same winner each time; Brightwell owner shares PEP with Karst Ridge"
+tender,T01028,single_bidder,single_bidder,C093,True,Only bidder is Solace Medical; director is relative of B09 head of procurement
+tender,T01028,short_window,short_window,C093,True,Bid window of 3-6 days and award within 3 days
+tender,T01079,single_bidder,single_bidder,C093,True,Only bidder is Solace Medical; director is relative of B09 head of procurement
+tender,T01079,short_window,short_window,C093,True,Bid window of 3-6 days and award within 3 days
+tender,T01060,single_bidder,single_bidder,C093,True,Only bidder is Solace Medical; director is relative of B09 head of procurement
+tender,T01060,short_window,short_window,C093,True,Bid window of 3-6 days and award within 3 days
+tender,T01012,single_bidder,single_bidder,C093,True,Only bidder is Solace Medical; director is relative of B09 head of procurement
+tender,T01012,short_window,short_window,C093,True,Bid window of 3-6 days and award within 3 days
+tender,T01025,single_bidder,single_bidder,C093,True,Only bidder is Solace Medical; director is relative of B09 head of procurement
+tender,T01025,short_window,short_window,C093,True,Bid window of 3-6 days and award within 3 days
+tender,T01097,single_bidder,single_bidder,C093,True,Only bidder is Solace Medical; director is relative of B09 head of procurement
+tender,T01097,short_window,short_window,C093,True,Bid window of 3-6 days and award within 3 days
+tender,T01100,single_bidder,single_bidder,C093,True,Only bidder is Solace Medical; director is relative of B09 head of procurement
+tender,T01100,short_window,short_window,C093,True,Bid window of 3-6 days and award within 3 days
+tender,T01005,single_bidder,single_bidder,C093,True,Only bidder is Solace Medical; director is relative of B09 head of procurement
+tender,T01005,short_window,short_window,C093,True,Bid window of 3-6 days and award within 3 days
+tender,T01084,single_bidder,single_bidder,C093,True,Only bidder is Solace Medical; director is relative of B09 head of procurement
+tender,T01058,single_bidder,single_bidder,C093,True,Only bidder is Solace Medical; director is relative of B09 head of procurement
+tender,T01022,single_bidder,single_bidder,C093,True,Only bidder is Solace Medical; director is relative of B09 head of procurement
+tender,T01021,single_bidder,single_bidder,C093,True,Only bidder is Solace Medical; director is relative of B09 head of procurement
+tender,T01014,single_bidder,single_bidder,C093,True,Only bidder is Solace Medical; director is relative of B09 head of procurement
+tender,T01027,single_bidder,single_bidder,C093,True,Only bidder is Solace Medical; director is relative of B09 head of procurement
+tender,T01070,single_bidder,single_bidder,C093,True,Only bidder is Solace Medical; director is relative of B09 head of procurement
+tender,T00928,bid_rigging_ring,cover_bid_spread;graph_shared_address,C094;C095;C096;C097,True,All bidders registered at 17 Calder Wharf and controlled by Hale/Ort; winner rotates; second bid only 0.5-2.5% above winner
+tender,T00977,bid_rigging_ring,cover_bid_spread;graph_shared_address,C094;C095;C096;C097,True,All bidders registered at 17 Calder Wharf and controlled by Hale/Ort; winner rotates; second bid only 0.5-2.5% above winner
+tender,T00890,bid_rigging_ring,cover_bid_spread;graph_shared_address,C094;C095;C096;C097,True,All bidders registered at 17 Calder Wharf and controlled by Hale/Ort; winner rotates; second bid only 0.5-2.5% above winner
+tender,T00939,bid_rigging_ring,cover_bid_spread;graph_shared_address,C094;C095;C096;C097,True,All bidders registered at 17 Calder Wharf and controlled by Hale/Ort; winner rotates; second bid only 0.5-2.5% above winner
+tender,T00948,bid_rigging_ring,cover_bid_spread;graph_shared_address,C094;C095;C096;C097,True,All bidders registered at 17 Calder Wharf and controlled by Hale/Ort; winner rotates; second bid only 0.5-2.5% above winner
+tender,T00897,bid_rigging_ring,cover_bid_spread;graph_shared_address,C094;C095;C096;C097,True,All bidders registered at 17 Calder Wharf and controlled by Hale/Ort; winner rotates; second bid only 0.5-2.5% above winner
+tender,T00946,bid_rigging_ring,cover_bid_spread;graph_shared_address,C094;C095;C096;C097,True,All bidders registered at 17 Calder Wharf and controlled by Hale/Ort; winner rotates; second bid only 0.5-2.5% above winner
+tender,T00979,bid_rigging_ring,cover_bid_spread;graph_shared_address,C094;C095;C096;C097,True,All bidders registered at 17 Calder Wharf and controlled by Hale/Ort; winner rotates; second bid only 0.5-2.5% above winner
+tender,T00999,bid_rigging_ring,cover_bid_spread;graph_shared_address,C094;C095;C096;C097,True,All bidders registered at 17 Calder Wharf and controlled by Hale/Ort; winner rotates; second bid only 0.5-2.5% above winner
+tender,T00884,bid_rigging_ring,cover_bid_spread;graph_shared_address,C094;C095;C096;C097,True,All bidders registered at 17 Calder Wharf and controlled by Hale/Ort; winner rotates; second bid only 0.5-2.5% above winner
+tender,T00936,bid_rigging_ring,cover_bid_spread;graph_shared_address,C094;C095;C096;C097,True,All bidders registered at 17 Calder Wharf and controlled by Hale/Ort; winner rotates; second bid only 0.5-2.5% above winner
+tender,T00982,bid_rigging_ring,cover_bid_spread;graph_shared_address,C094;C095;C096;C097,True,All bidders registered at 17 Calder Wharf and controlled by Hale/Ort; winner rotates; second bid only 0.5-2.5% above winner
+tender,T00876,bid_rigging_ring,cover_bid_spread;graph_shared_address,C094;C095;C096;C097,True,All bidders registered at 17 Calder Wharf and controlled by Hale/Ort; winner rotates; second bid only 0.5-2.5% above winner
+tender,T00934,bid_rigging_ring,cover_bid_spread;graph_shared_address,C094;C095;C096;C097,True,All bidders registered at 17 Calder Wharf and controlled by Hale/Ort; winner rotates; second bid only 0.5-2.5% above winner
+tender,T00908,bid_rigging_ring,cover_bid_spread;graph_shared_address,C094;C095;C096;C097,True,All bidders registered at 17 Calder Wharf and controlled by Hale/Ort; winner rotates; second bid only 0.5-2.5% above winner
+tender,T00915,bid_rigging_ring,cover_bid_spread;graph_shared_address,C094;C095;C096;C097,True,All bidders registered at 17 Calder Wharf and controlled by Hale/Ort; winner rotates; second bid only 0.5-2.5% above winner
+tender,T00907,bid_rigging_ring,cover_bid_spread;graph_shared_address,C094;C095;C096;C097,True,All bidders registered at 17 Calder Wharf and controlled by Hale/Ort; winner rotates; second bid only 0.5-2.5% above winner
+tender,T00882,bid_rigging_ring,cover_bid_spread;graph_shared_address,C094;C095;C096;C097,True,All bidders registered at 17 Calder Wharf and controlled by Hale/Ort; winner rotates; second bid only 0.5-2.5% above winner
+tender,T00894,bid_rigging_ring,cover_bid_spread;graph_shared_address,C094;C095;C096;C097,True,All bidders registered at 17 Calder Wharf and controlled by Hale/Ort; winner rotates; second bid only 0.5-2.5% above winner
+tender,T00981,bid_rigging_ring,cover_bid_spread;graph_shared_address,C094;C095;C096;C097,True,All bidders registered at 17 Calder Wharf and controlled by Hale/Ort; winner rotates; second bid only 0.5-2.5% above winner
+tender,T00235,short_window,short_window,C002,True,Bid window of 3-6 days with no ownership link; process anomaly only
+tender,T00127,short_window,short_window,C004,True,Bid window of 3-6 days with no ownership link; process anomaly only
+tender,T00147,short_window,short_window,C055,True,Bid window of 3-6 days with no ownership link; process anomaly only
+tender,T00134,short_window,short_window,C003,True,Bid window of 3-6 days with no ownership link; process anomaly only
+tender,T00151,short_window,short_window,C058,True,Bid window of 3-6 days with no ownership link; process anomaly only
+tender,T00221,short_window,short_window,C066,True,Bid window of 3-6 days with no ownership link; process anomaly only
+tender,T00219,short_window,short_window,C023,True,Bid window of 3-6 days with no ownership link; process anomaly only
+tender,T00188,short_window,short_window,C016,True,Bid window of 3-6 days with no ownership link; process anomaly only
+tender,T00189,new_company,new_company,C100,True,Winner registered 52 days before award; owned by Calloway Holdings (same BVI owner as Karst Ridge)
+tender,T00704,new_company,new_company,C100,True,Winner registered 59 days before award; owned by Calloway Holdings (same BVI owner as Karst Ridge)
+tender,T00626,new_company,new_company,C101,True,Winner registered 40 days before award; owned by Calloway Holdings (same BVI owner as Karst Ridge)
+tender,T01126,new_company,new_company,C101,True,Winner registered 36 days before award; owned by Calloway Holdings (same BVI owner as Karst Ridge)
+tender,T00640,new_company,new_company,C102,True,Winner registered 37 days before award
+tender,T00224,new_company,new_company,C102,True,Winner registered 43 days before award
+tender,T00160,new_company,new_company,C103,True,Winner registered 60 days before award
+tender,T01224,new_company,new_company,C103,True,Winner registered 55 days before award
+tender,T00701,new_company,new_company,C104,True,Winner registered 53 days before award
+tender,T01199,new_company,new_company,C104,True,Winner registered 55 days before award
+tender,T00181,new_company,new_company,C105,True,Winner registered 43 days before award
+tender,T01192,new_company,new_company,C105,True,Winner registered 47 days before award
+tender,T01334,decoy_single_bidder,single_bidder,C098,False,DECOY: Quantis is the sole manufacturer of this equipment; single bid is legitimate. Tests false positives.
+tender,T01279,decoy_single_bidder,single_bidder,C098,False,DECOY: Quantis is the sole manufacturer of this equipment; single bid is legitimate. Tests false positives.
+tender,T01316,decoy_single_bidder,single_bidder,C098,False,DECOY: Quantis is the sole manufacturer of this equipment; single bid is legitimate. Tests false positives.
+tender,T01308,decoy_single_bidder,single_bidder,C098,False,DECOY: Quantis is the sole manufacturer of this equipment; single bid is legitimate. Tests false positives.
+tender,T01327,decoy_single_bidder,single_bidder,C098,False,DECOY: Quantis is the sole manufacturer of this equipment; single bid is legitimate. Tests false positives.
+tender,T01369,decoy_single_bidder,single_bidder,C098,False,DECOY: Quantis is the sole manufacturer of this equipment; single bid is legitimate. Tests false positives.
+tender,T01349,decoy_single_bidder,single_bidder,C098,False,DECOY: Quantis is the sole manufacturer of this equipment; single bid is legitimate. Tests false positives.
+tender,T01287,decoy_single_bidder,single_bidder,C098,False,DECOY: Quantis is the sole manufacturer of this equipment; single bid is legitimate. Tests false positives.
+tender,T01251,decoy_repeat_winner,repeat_winner,C099,False,"DECOY: remote region, Highfell is the only local depot; high share is structural. Tests false positives."
+tender,T01270,decoy_repeat_winner,repeat_winner,C099,False,"DECOY: remote region, Highfell is the only local depot; high share is structural. Tests false positives."
+tender,T01373,decoy_repeat_winner,repeat_winner,C099,False,"DECOY: remote region, Highfell is the only local depot; high share is structural. Tests false positives."
+tender,T01303,decoy_repeat_winner,repeat_winner,C099,False,"DECOY: remote region, Highfell is the only local depot; high share is structural. Tests false positives."
+tender,T01269,decoy_repeat_winner,repeat_winner,C099,False,"DECOY: remote region, Highfell is the only local depot; high share is structural. Tests false positives."
+tender,T01255,decoy_repeat_winner,repeat_winner,C099,False,"DECOY: remote region, Highfell is the only local depot; high share is structural. Tests false positives."
+tender,T01322,decoy_repeat_winner,repeat_winner,C099,False,"DECOY: remote region, Highfell is the only local depot; high share is structural. Tests false positives."
+tender,T01297,decoy_repeat_winner,repeat_winner,C099,False,"DECOY: remote region, Highfell is the only local depot; high share is structural. Tests false positives."
+tender,T01319,decoy_repeat_winner,repeat_winner,C099,False,"DECOY: remote region, Highfell is the only local depot; high share is structural. Tests false positives."
+tender,T01259,decoy_repeat_winner,repeat_winner,C099,False,"DECOY: remote region, Highfell is the only local depot; high share is structural. Tests false positives."
+tender,T01318,decoy_repeat_winner,repeat_winner,C099,False,"DECOY: remote region, Highfell is the only local depot; high share is structural. Tests false positives."
+tender,T01285,decoy_repeat_winner,repeat_winner,C099,False,"DECOY: remote region, Highfell is the only local depot; high share is structural. Tests false positives."
+tender,T01345,decoy_repeat_winner,repeat_winner,C099,False,"DECOY: remote region, Highfell is the only local depot; high share is structural. Tests false positives."
+tender,T01294,decoy_repeat_winner,repeat_winner,C099,False,"DECOY: remote region, Highfell is the only local depot; high share is structural. Tests false positives."
+tender,T01268,decoy_repeat_winner,repeat_winner,C099,False,"DECOY: remote region, Highfell is the only local depot; high share is structural. Tests false positives."
+tender,T01313,decoy_repeat_winner,repeat_winner,C099,False,"DECOY: remote region, Highfell is the only local depot; high share is structural. Tests false positives."
+tender,T01281,decoy_repeat_winner,repeat_winner,C099,False,"DECOY: remote region, Highfell is the only local depot; high share is structural. Tests false positives."
+tender,T01298,decoy_repeat_winner,repeat_winner,C099,False,"DECOY: remote region, Highfell is the only local depot; high share is structural. Tests false positives."
+tender,T01338,decoy_repeat_winner,repeat_winner,C099,False,"DECOY: remote region, Highfell is the only local depot; high share is structural. Tests false positives."
+tender,T01275,decoy_repeat_winner,repeat_winner,C099,False,"DECOY: remote region, Highfell is the only local depot; high share is structural. Tests false positives."
+tender,T01305,decoy_repeat_winner,repeat_winner,C099,False,"DECOY: remote region, Highfell is the only local depot; high share is structural. Tests false positives."
+tender,T01292,decoy_repeat_winner,repeat_winner,C099,False,"DECOY: remote region, Highfell is the only local depot; high share is structural. Tests false positives."
+tender,T01271,decoy_repeat_winner,repeat_winner,C099,False,"DECOY: remote region, Highfell is the only local depot; high share is structural. Tests false positives."
+tender,T01280,decoy_repeat_winner,repeat_winner,C099,False,"DECOY: remote region, Highfell is the only local depot; high share is structural. Tests false positives."
+tender,T01367,decoy_repeat_winner,repeat_winner,C099,False,"DECOY: remote region, Highfell is the only local depot; high share is structural. Tests false positives."
+tender,T01312,decoy_repeat_winner,repeat_winner,C099,False,"DECOY: remote region, Highfell is the only local depot; high share is structural. Tests false positives."
+tender,T01253,decoy_repeat_winner,repeat_winner,C099,False,"DECOY: remote region, Highfell is the only local depot; high share is structural. Tests false positives."
+tender,T01252,decoy_repeat_winner,repeat_winner,C099,False,"DECOY: remote region, Highfell is the only local depot; high share is structural. Tests false positives."
+tender,T01290,decoy_repeat_winner,repeat_winner,C099,False,"DECOY: remote region, Highfell is the only local depot; high share is structural. Tests false positives."
+tender,T01262,decoy_repeat_winner,repeat_winner,C099,False,"DECOY: remote region, Highfell is the only local depot; high share is structural. Tests false positives."
+tender,T01352,decoy_repeat_winner,repeat_winner,C099,False,"DECOY: remote region, Highfell is the only local depot; high share is structural. Tests false positives."
+tender,T01336,decoy_repeat_winner,repeat_winner,C099,False,"DECOY: remote region, Highfell is the only local depot; high share is structural. Tests false positives."
+tender,T01263,decoy_repeat_winner,repeat_winner,C099,False,"DECOY: remote region, Highfell is the only local depot; high share is structural. Tests false positives."
+tender,T01326,decoy_repeat_winner,repeat_winner,C099,False,"DECOY: remote region, Highfell is the only local depot; high share is structural. Tests false positives."
+tender,T01360,decoy_repeat_winner,repeat_winner,C099,False,"DECOY: remote region, Highfell is the only local depot; high share is structural. Tests false positives."
+tender,T01325,decoy_repeat_winner,repeat_winner,C099,False,"DECOY: remote region, Highfell is the only local depot; high share is structural. Tests false positives."
+tender,T01295,decoy_repeat_winner,repeat_winner,C099,False,"DECOY: remote region, Highfell is the only local depot; high share is structural. Tests false positives."
+tender,T01264,decoy_repeat_winner,repeat_winner,C099,False,"DECOY: remote region, Highfell is the only local depot; high share is structural. Tests false positives."
+tender,T01356,decoy_repeat_winner,repeat_winner,C099,False,"DECOY: remote region, Highfell is the only local depot; high share is structural. Tests false positives."
+tender,T01265,decoy_repeat_winner,repeat_winner,C099,False,"DECOY: remote region, Highfell is the only local depot; high share is structural. Tests false positives."
+tender,T01306,decoy_repeat_winner,repeat_winner,C099,False,"DECOY: remote region, Highfell is the only local depot; high share is structural. Tests false positives."
+tender,T01365,decoy_repeat_winner,repeat_winner,C099,False,"DECOY: remote region, Highfell is the only local depot; high share is structural. Tests false positives."
+tender,T01273,decoy_repeat_winner,repeat_winner,C099,False,"DECOY: remote region, Highfell is the only local depot; high share is structural. Tests false positives."
+tender,T01361,decoy_repeat_winner,repeat_winner,C099,False,"DECOY: remote region, Highfell is the only local depot; high share is structural. Tests false positives."
+tender,T01350,decoy_repeat_winner,repeat_winner,C099,False,"DECOY: remote region, Highfell is the only local depot; high share is structural. Tests false positives."
+tender,T01347,decoy_repeat_winner,repeat_winner,C099,False,"DECOY: remote region, Highfell is the only local depot; high share is structural. Tests false positives."
+tender,T01289,decoy_repeat_winner,repeat_winner,C099,False,"DECOY: remote region, Highfell is the only local depot; high share is structural. Tests false positives."
+tender,T01372,decoy_repeat_winner,repeat_winner,C099,False,"DECOY: remote region, Highfell is the only local depot; high share is structural. Tests false positives."
+tender,T01333,decoy_repeat_winner,repeat_winner,C099,False,"DECOY: remote region, Highfell is the only local depot; high share is structural. Tests false positives."
+tender,T01370,decoy_repeat_winner,repeat_winner,C099,False,"DECOY: remote region, Highfell is the only local depot; high share is structural. Tests false positives."
+tender,T01258,decoy_repeat_winner,repeat_winner,C099,False,"DECOY: remote region, Highfell is the only local depot; high share is structural. Tests false positives."
+tender,T01359,decoy_repeat_winner,repeat_winner,C099,False,"DECOY: remote region, Highfell is the only local depot; high share is structural. Tests false positives."
+tender,T01330,decoy_repeat_winner,repeat_winner,C099,False,"DECOY: remote region, Highfell is the only local depot; high share is structural. Tests false positives."
+tender,T01351,decoy_repeat_winner,repeat_winner,C099,False,"DECOY: remote region, Highfell is the only local depot; high share is structural. Tests false positives."
+tender,T01254,decoy_repeat_winner,repeat_winner,C099,False,"DECOY: remote region, Highfell is the only local depot; high share is structural. Tests false positives."
+tender,T01267,decoy_repeat_winner,repeat_winner,C099,False,"DECOY: remote region, Highfell is the only local depot; high share is structural. Tests false positives."
+network,,shared_pep,graph,P123;X124;X128;C091;C092,True,Karst Ridge + Brightwell Supply (+ shells Novaterra/Pinecrest): Two 'unrelated' winners at different buyers trace to the same PEP (Dmitri Vass) via BVI and Panama entities
+network,,conflict_of_interest,graph,OF126;P125;C091,True,Karst Ridge: Director of Works at B05 is a relative of Karst Ridge's director
+network,,conflict_of_interest,graph,OF131;P129;C093,True,Solace Medical: Head of Procurement at B09 is a relative of Solace's director
+network,,shared_address_ring,graph,C094;C095;C096;C097;A092;P132;P133,True,Bid-rigging ring: Four competing firms share one address and are controlled by Hale (and his relative Ort)
+network,,offshore_hub,graph,X124;C091;C100;C101,True,Calloway Holdings: One BVI entity owns Karst Ridge and two newly registered shell winners
+network,,decoy_shared_address,graph,C014;C032;C025,False,Greenway Business Park: DECOY: three unrelated firms share a business-park address. Tests false positives on shared-address rule.
