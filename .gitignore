@@ -29,3 +29,5 @@ __pycache__/
 *.pyc
 .pytest_cache/
 *.db
+public/assets/rse/landing.mp4
+public/assets/rse/landing.mp4
